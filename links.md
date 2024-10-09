@@ -1,0 +1,11 @@
+- https://git-scm.com/book/pt-br/v1/Git-Essencial-Desfazendo-Coisas
+- https://git-scm.com/book/pt-br/v1/Primeiros-passos-Obtendo-Ajuda
+- https://git-scm.com/book/pt-br/v1/Git-Essencial-Desfazendo-Coisas
+- https://git-scm.com/book/pt-br/v1/Primeiros-passos
+- http://pt.slideshare.net/rodrigobranas/2-git-dag
+- http://pt.slideshare.net/rodrigobranas/3-git-branching-e-merging
+- http://pt.slideshare.net/rodrigobranas/4-git-stash
+- http://pt.slideshare.net/rodrigobranas/5-git-contribuindo-com-um-repositrio-remoto
+- http://pt.slideshare.net/rodrigobranas/6-git-desfazendo-as-coisas
+- https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1&index=1
+- http://caioproiete.net/pt/tag/git/
